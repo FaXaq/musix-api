@@ -1,0 +1,23 @@
+{
+  "name": "musix-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faxaq/musix-api.git"
+  },
+  "author": "Marin Procureur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/faxaq/musix-api/issues"
+  },
+  "homepage": "https://github.com/faxaq/musix-api#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "musix": "^0.1.3"
+  }
+}
